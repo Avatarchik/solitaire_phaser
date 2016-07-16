@@ -1,0 +1,6 @@
+{
+    "name": "phaser",
+    "main": "phaser.d.ts",
+    "files": ["pixi.d.ts", "p2.d.ts"],
+    "global": true
+}
